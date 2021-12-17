@@ -3,7 +3,7 @@
 #ENV                                                                                     #
 ##########################################################################################
 export LANG=ko_KR.utf8
-BACKUP_PATH="/backup/imsi-DCA-01/db_dumps/20211202"
+BACKUP_PATH="/backup/db_dumps/20211202"
 CUR_PATH=`pwd`
 th="8"
 
